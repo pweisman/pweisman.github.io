@@ -3,7 +3,7 @@ main:
     url: /
   - title: "Research"
     url: /publications/
-  - title: "CV"
-    url: /cv/
-  - title: "Teaching"
-    url: /teaching/
+  # - title: "CV"
+  #   url: /cv/
+  # - title: "Teaching"
+  #   url: /teaching/
