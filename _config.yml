@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Paige Weisman"
 title_separator          : "-"
 name                     : &name "Paige Weisman"
-description              : &description "PhD Candidate in Finance"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "PhD Candidate in Finance | Imperial Business School"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,25 +23,28 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  # avatar           : "profile.png"
+  avatar: "/images/profile.jpg"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  pronouns         : "she/her" # example: "she/her"  
+  # bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Candidate in Finance, Imperial Business School"
+  location         : "London, UK"
+  employer         : "Imperial Business School"
+  linkedin         : "paigeweisman"
   uri              : # URL
   email            : "pw721@ic.ac.uk" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : ""
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : ""
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : ""
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
