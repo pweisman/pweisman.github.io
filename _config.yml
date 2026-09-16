@@ -24,7 +24,7 @@ repository               : "pweisman/pweisman.github.io"
 author:
   # Biographic information
   # avatar           : "profile.png"
-  avatar: "images/weisman_paige.jpg"
+  avatar: "weisman_paige.jpg"
   name             : "Paige Weisman"
   pronouns         : "she/her" # example: "she/her"  
   # bio              : "Short biography for the left-hand sidebar"
