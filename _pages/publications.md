@@ -7,22 +7,21 @@ author_profile: true
 
 ### Job Market Paper
 
-#### **Capital Requirements, Market Liquidity, and Mortgage Pricing: Evidence from Basel III**
-*[Draft available upon request &bull; Under review]*  
-*Presented at: GT-FRBA Household Finance Conference (2026)*
-
+#### **How Secondary Markets Affect Bank Mortgage Lending Under Capital Regulation**
+*[Draft available upon request]*  
 ---
 
 ### Working Papers & Works in Progress
 
-#### **Credit Concentration and Loan Default: Evidence from Commercial Real Estate**
+#### **Asymmetric Information and CRE Loan Underwriting**
+*(with Jingyi Fang and David Glancy)*  
+*[In Progress]*
+
+#### **Does Competition Improve Credit Quality? Evidence from Commercial Real Estate**
 *(with Jingyi Fang and David Glancy)*  
 *[Draft available upon request]*
 
-#### **Optimism Under Supervision: Interpreting Bank-Supervision Gaps in Stress Test Forecasts**
+#### **Why Do Banks and Supervisors Disagree on Net Interest Income Projections? Evidence from Stress Testing**
 *(with Anya Kleymenova and Young Hwa Seok)*  
 *[Draft available upon request]*
 
-#### **Asymmetric Information and Commercial Real Estate Loan Underwriting**
-*(with Jingyi Fang and David Glancy)*  
-*[In Progress]*
