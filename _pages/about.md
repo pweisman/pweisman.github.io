@@ -20,8 +20,8 @@ I will be on the 2026–2027 academic job market and available for interviews.
 
 ### Job Market Paper
 
-#### **Capital Requirements, Market Liquidity, and Mortgage Pricing: Evidence from Basel III**
-*[Draft available upon request &bull; Under review]*  
+#### **How Secondary Markets Affect Bank Mortgage Lending Under Capital Regulation**
+*[Draft available upon request]*  
 *Presented at: GT-FRBA Household Finance Conference (2026)*
 
 ---
